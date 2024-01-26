@@ -36,8 +36,8 @@ bool power = false;
 bool artnet_on = false;
 int effect = 0;
 
-const char* ssid = "Adi Home Network";
-const char* password = "62826282"; 
+const char* ssid = "network name";
+const char* password = "password"; 
 
 
 PCA9685 pca9685;
